@@ -2,9 +2,7 @@
 
 This project shows how we can use Angular CLI project with Zeit Now Dev Environemnt. [Demo](https://ng-now-starter.mbaljeetsingh.now.sh/)
 
-Check out the tutorial:
-[![Going Full Stack with Angular and Zeit Now Dev Serverless](http://img.youtube.com/vi/ctpANunq6X0/0.jpg)](http://www.youtube.com/watch?v=ctpANunq6X0 "Going Full Stack with Angular and Zeit Now Dev Serverless")
-
+## Checkout the tutorial
 [![Going Full Stack with Angular and Zeit Now Dev Serverless](http://img.youtube.com/vi/ctpANunq6X0/0.jpg)](http://www.youtube.com/watch?v=ctpANunq6X0 "Going Full Stack with Angular and Zeit Now Dev Serverless")
 
 ## Prereqisites
